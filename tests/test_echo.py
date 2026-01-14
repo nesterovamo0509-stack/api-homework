@@ -49,5 +49,5 @@ def test_headers_post():
     response = requests.post(post_url, headers=headers)
     assert response.status_code == 200
     data = response.json()
-    assert data["headers"]["name"] == "Ivan"
+    assert data["headers"]["surname"] == "Ivan"
     assert data["headers"]["surname"] == "Ivanov"

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="1">
+    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="replace requirements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_echo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_echo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marga\OneDrive\Рабочий стол\нетология\api-homework" />
       <recent name="C:\Users\marga\OneDrive\Рабочий стол\нетология\api-homework\tests" />
     </key>
   </component>
@@ -82,11 +84,37 @@
       <option name="project" value="LOCAL" />
       <updated>1768376926478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add requirements">
+      <option name="closed" value="true" />
+      <created>1768380053457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768380053457</updated>
+    </task>
+    <task id="LOCAL-00003" summary="replace requirements">
+      <option name="closed" value="true" />
+      <created>1768380270581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768380270581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="replace requirements">
+      <option name="closed" value="true" />
+      <created>1768380359609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768380359609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="add requirements" />
+    <MESSAGE value="replace requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace requirements" />
   </component>
 </project>
