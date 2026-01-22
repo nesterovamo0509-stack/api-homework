@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="repair allure">
+    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="add github actions">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/allure_report.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/allure_report.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769093188701</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add github actions">
+      <option name="closed" value="true" />
+      <created>1769094167523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769094167523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value="repair test" />
     <MESSAGE value="add allure" />
     <MESSAGE value="repair allure" />
-    <option name="LAST_COMMIT_MESSAGE" value="repair allure" />
+    <MESSAGE value="add github actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add github actions" />
   </component>
 </project>
