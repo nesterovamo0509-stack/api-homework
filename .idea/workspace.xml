@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="repair test">
+    <list default="true" id="a0ab2667-6de9-49c6-ad9d-f03f34c3ced8" name="Changes" comment="add allure">
+      <change beforePath="$PROJECT_DIR$/.idea/api-homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api-homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_echo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_echo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768381715127</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add allure">
+      <option name="closed" value="true" />
+      <created>1769092445727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769092445727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +143,7 @@
     <MESSAGE value="replace requirements" />
     <MESSAGE value="broke test" />
     <MESSAGE value="repair test" />
-    <option name="LAST_COMMIT_MESSAGE" value="repair test" />
+    <MESSAGE value="add allure" />
+    <option name="LAST_COMMIT_MESSAGE" value="add allure" />
   </component>
 </project>
